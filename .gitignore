@@ -1,0 +1,11 @@
+node_modules/
+dist/
+release/
+coverage/
+playwright-report/
+test-results/
+.e2e-user-data/
+*.log
+*.db
+*.db-shm
+*.db-wal
